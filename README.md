@@ -1,3 +1,3 @@
 # notes
-run mysql mac
+run mysql mac </br>
   /usr/local/mysql/bin/mysql -u root -p
